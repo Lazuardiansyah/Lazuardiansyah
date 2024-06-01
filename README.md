@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lazuardiansyah Ilman</h1>
 <h3 align="center">As an Operations Lead with 4 years of experience in the operations field, I have developed a strong interest in transitioning to a QA Engineer role.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lazuardiansyah&label=Profile%20views&color=0e75b6&style=flat" alt="lazuardiansyah" /> </p>
+
 - 🔭 I’m currently working on **Shopee Indonesia**
 
 - 🌱 I’m currently learning **Katalon , Java**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Anything!!**
 
 - 📫 How to reach me **Lazuardiansyah_Ilman@outlook.com**
 
@@ -13,6 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/lazuardiansyah-ilman-01138b30a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lazuardiansyah-ilman-01138b30a" height="30" width="40" /></a>
+<a href="https://instagram.com/lazuardiansyah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lazuardiansyah" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lazuardiansyah&show_icons=true&locale=en&layout=compact" alt="lazuardiansyah" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lazuardiansyah&show_icons=true&locale=en" alt="lazuardiansyah" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lazuardiansyah&" alt="lazuardiansyah" /></p>
